@@ -1,1 +1,1 @@
-![runcycle image](run_cycle_animations/run_cycle.jpg)
+![runcycle image](run_cycle.jpg)
